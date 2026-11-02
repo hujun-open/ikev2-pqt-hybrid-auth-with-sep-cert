@@ -1,8 +1,8 @@
 <!-- regenerate: on (set to off if you edit this file) -->
 
-# TODO - Your title
+# draft-hu-ipsecme-pqt-hybrid-auth-with-sep-cert
 
-This is the working area for the individual Internet-Draft, "TODO - Your title".
+This is the working area for the individual Internet-Draft, "draft-hu-ipsecme-pqt-hybrid-auth-with-sep-cert".
 
 * [Editor's Copy](https://hujun-open.github.io/ikev2-pqt-hybrid-auth-with-sep-cert/#go.draft-hu-ipsecme-pqt-hybrid-auth-with-sep-cert.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-hu-ipsecme-pqt-hybrid-auth-with-sep-cert)
