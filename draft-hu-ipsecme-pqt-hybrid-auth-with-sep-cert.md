@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: "Security"
+workgroup: "IP Security Maintenance and Extensions"
 keyword:
  - next generation
  - unicorn
  - AI-native
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "IP Security Maintenance and Extensions"
+  type: "Working Group"
+  mail: "ipsec@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/ipsec/"
+  github: "hujun-open/ikev2-pqt-hybrid-auth-with-sep-cert"
+  latest: "https://hujun-open.github.io/ikev2-pqt-hybrid-auth-with-sep-cert/draft-hu-ipsecme-pqt-hybrid-auth-with-sep-cert.html"
 
 author:
  -
