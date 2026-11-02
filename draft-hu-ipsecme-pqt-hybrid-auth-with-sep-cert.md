@@ -86,7 +86,7 @@ informative:
   RFC8784:
   RFC9955:
   I-D.ietf-ipsecme-ikev2-mlkem:
-  I-D.reddy-ipsecme-pqt-hybrid-auth:
+  I-D.ietf-ipsecme-pq-hybrid-auth:
 
 
 --- abstract
@@ -134,7 +134,7 @@ There are two types of setup:
 2. Each peer has two separate certificates: one certificate contains
 the PQC public key and the other contains the traditional public key.
 
-This document specifies mechanism for type-2, while {{I-D.reddy-ipsecme-pqt-hybrid-auth}} address type-1;
+This document specifies mechanism for type-2, while {{I-D.ietf-ipsecme-pq-hybrid-auth}} address type-1;
 
 The mechanism is a general framework for combinations of PQC and traditional
 algorithms.  Combinations containing ML-DSA and traditional algorithms are
