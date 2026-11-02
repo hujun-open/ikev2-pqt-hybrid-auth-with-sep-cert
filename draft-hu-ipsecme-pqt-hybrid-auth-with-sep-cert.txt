@@ -139,7 +139,7 @@ Table of Contents
        key.
 
    This document specifies mechanism for type-2, while
-   [I-D.reddy-ipsecme-pqt-hybrid-auth] address type-1;
+   [I-D.ietf-ipsecme-pq-hybrid-auth] address type-1;
 
    The mechanism is a general framework for combinations of PQC and
    traditional algorithms.  Combinations containing ML-DSA and
@@ -554,13 +554,13 @@ Table of Contents
               <https://datatracker.ietf.org/doc/html/draft-ietf-ipsecme-
               ikev2-mlkem-09>.
 
-   [I-D.reddy-ipsecme-pqt-hybrid-auth]
+   [I-D.ietf-ipsecme-pq-hybrid-auth]
               Reddy.K, T., Fluhrer, S., Hu, J., Morioka, Y., and G.
-              WANG, "Hybrid Post-Quantum and Traditional Authentication
-              for IKEv2", Work in Progress, Internet-Draft, draft-reddy-
-              ipsecme-pqt-hybrid-auth-01, 10 August 2026,
-              <https://datatracker.ietf.org/doc/html/draft-reddy-
-              ipsecme-pqt-hybrid-auth-01>.
+              WANG, "Use of Composite Signatures in IKEv2", Work in
+              Progress, Internet-Draft, draft-ietf-ipsecme-pq-hybrid-
+              auth-01, 2 November 2026,
+              <https://datatracker.ietf.org/doc/html/draft-ietf-ipsecme-
+              pq-hybrid-auth-01>.
 
    [ML-DSA]   "Module-Lattice-Based Digital Signature Standard", NIST 
               FIPS-204, August 2023,
